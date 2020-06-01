@@ -6,7 +6,7 @@
 
 > deno is a cool, amazing way to build a REST API
 
-> i love deno...
+> i love deno....
 
 ## Run
 ```
